@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PathFinderJavaFX:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PathFinderJavaFX_jar</output-path>
+    <root id="archive" name="PathFinderJavaFX.jar">
+      <element id="module-output" name="PathFinderJavaFX" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/controlsfx-8.40.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jfoenix/JFoenix/jfoenix/build/libs/jfoenix-0.0.0-SNAPSHOT.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

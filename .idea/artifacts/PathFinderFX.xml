@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="apk" build-on-make="true" name="PathFinderFX">
+    <output-path>$PROJECT_DIR$/out/artifacts/PathFinderFX</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyStoreUrl" value="file://" />
+      </options>
+    </properties>
+    <root id="archive" name="PathFinderFX.apk" />
+  </artifact>
+</component>
