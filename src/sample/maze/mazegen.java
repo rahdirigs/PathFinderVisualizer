@@ -21,8 +21,8 @@ public class mazegen {
     private static int[] Y = {-1, 0, 1, 0};
     private static int[] X = {0, 1, 0, -1};
 
-    private static char[] color = {stateNum.getChar(cellState.WALL),
-            stateNum.getChar(cellState.UNVISITED)};
+    private static char[] color = { stateNum.getChar(cellState.WALL),
+            stateNum.getChar(cellState.UNVISITED) };
 
     private mazegen() {
     }
